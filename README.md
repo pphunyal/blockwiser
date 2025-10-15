@@ -1,2 +1,0 @@
-# blockwiser
-blockwiser website
